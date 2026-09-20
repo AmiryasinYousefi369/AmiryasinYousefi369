@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**AmiryasinYousefi369/AmiryasinYousefi369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>arta@github ~ $ ./contributions.sh</h2>
 
-Here are some ideas to get you started:
+<img src="./assets/contrib-heatmap.svg" alt="Contribution heatmap" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+
+<h2>amiryasin@github ~ $ whoami --ascii</h2>
+
+<img src="./assets/wordmark.svg" alt="AMIRYASIN wordmark" />
+
+<br><br>
+
+<h2>amiryasin@github ~ $ whoami --verbose</h2>
+
+<img src="./assets/verbose-card.svg" alt="whoami verbose card" />
+
+<br><br>
+
+<h2>amiryasin@github ~ $ cat contact.txt</h2>
+
+[![Website](https://img.shields.io/badge/WEBSITE-shop.ario--co.ir-39FF14?style=for-the-badge&logo=googlechrome&logoColor=black)](https://shop.ario-co.ir)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Amiryasin%20Yousefi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/REPLACE-WITH-YOUR-LINKEDIN-USERNAME)
+[![Email](https://img.shields.io/badge/EMAIL-tonystarkicu1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tonystarkicu1@gmail.com)
+
+<br>
+
+<sub><code>assets/contrib-heatmap.svg</code> is re-generated every day by <a href="./.github/workflows/update-profile.yml">a GitHub Action</a>, using a free public API — no third-party badge service, nothing to rate-limit.</sub>
+
+</div>
