@@ -1,17 +1,21 @@
-<text x="28" y="70" class="label">Now:</text>
-<text x="190" y="70" class="value">Learning &amp; Building real projects</text>
-
-<text x="28" y="116" class="label">Prev:</text>
-<text x="190" y="116" class="value">Starting my journey in web development</text>
-
-<text x="28" y="162" class="label">Stack:</text>
-<text x="190" y="162" class="value">Currently learning — skills will be added over time</text>
-
-<text x="28" y="208" class="label">Highlights:</text>
-<text x="190" y="208" class="value">Building personal projects &amp; experimenting</text>
-
-<text x="28" y="254" class="label">Learning:</text>
-<text x="190" y="254" class="value">Web Development</text>
-
-<text x="28" y="300" class="label">Reach:</text>
-<text x="190" y="300" class="value">shop.ario-co.ir · tonystarkicu1@gmail.com</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="436" viewBox="0 0 900 436">
+  <style>
+    .bg { fill: #0d1117; }
+    .border { fill: none; stroke: #30363d; stroke-width: 1; }
+    .title { font-family: 'Courier New', monospace; font-size: 13px; fill: #8b949e; }
+    .user { font-family: 'Courier New', monospace; font-size: 15px; font-weight: bold; fill: #39FF14; }
+    .dashes { font-family: 'Courier New', monospace; font-size: 13px; fill: #30363d; }
+    .label { font-family: 'Courier New', monospace; font-size: 14px; font-weight: bold; fill: #39FF14; }
+    .value { font-family: 'Courier New', monospace; font-size: 14px; fill: #c9d1d9; }
+    .footer { font-family: 'Courier New', monospace; font-size: 12px; fill: #58a6ff; text-anchor: end; }
+  </style>
+  <rect class="bg" width="900" height="436" rx="10"/>
+  <rect class="border" x="0.5" y="0.5" width="899" height="435" rx="10"/>
+  <text x="28" y="30" class="title">AmiryasinYousefi369: ~ &#8212; neofetch</text>
+  <text x="28" y="46" class="user">AmiryasinYousefi369</text>
+  <text x="28" y="60" class="dashes">------------</text>
+  <text x="28" y="70" class="label">Now:</text><text x="190" y="70" class="value">در حال یادگیری و ساخت پروژه‌های شخصی (placeholder - عوضش کن)</text><text x="28" y="116" class="label">Prev:</text><text x="190" y="116" class="value">— (placeholder - عوضش کن)</text><text x="28" y="162" class="label">Stack:</text><text x="190" y="162" class="value">— (فعلاً خالی، هر وقت مهارتی یاد گرفتی اینجا اضافه کن)</text><text x="28" y="208" class="label">Highlights:</text><text x="190" y="208" class="value">— (placeholder - عوضش کن)</text><text x="28" y="254" class="label">Learning:</text><text x="190" y="254" class="value">Full-Stack Development</text><text x="28" y="300" class="label">Reach:</text><text x="190" y="300" class="value">shop.ario-co.ir - tonystarkicu1@gmail.com</text>
+  <rect x="28" y="356" width="22" height="22" rx="3" fill="#161b22" stroke="#30363d"/><rect x="58" y="356" width="22" height="22" rx="3" fill="#0e4429" stroke="#30363d"/><rect x="88" y="356" width="22" height="22" rx="3" fill="#006d32" stroke="#30363d"/><rect x="118" y="356" width="22" height="22" rx="3" fill="#26a641" stroke="#30363d"/><rect x="148" y="356" width="22" height="22" rx="3" fill="#39d353" stroke="#30363d"/><rect x="178" y="356" width="22" height="22" rx="3" fill="#58a6ff" stroke="#30363d"/><rect x="208" y="356" width="22" height="22" rx="3" fill="#c9d1d9" stroke="#30363d"/>
+  <text x="872" y="406" class="footer">./whoami --verbose</text>
+</svg>
+اینا رو چی بزارم
