@@ -16,7 +16,7 @@
   <code style="color: #39FF14; font-family: 'Courier New', monospace;">amiryasin@github ~ $ now-playing</code>
 </h2>
 
-<img src="./assets/now-playing.svg" alt="Now playing" width="100%" style="max-width: 816px;" />
+<img src="./assets/assets/contrib-heatmap.svg" alt="Now playing" width="100%" style="max-width: 816px;" />
 
 <br>
 
