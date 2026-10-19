@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/cover.png" alt="Amiryasin Yousefi cover" width="100%" style="max-width: 900px; border-radius: 12px;" />
+
 
 <br>
 
