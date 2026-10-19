@@ -34,7 +34,7 @@
 
 <br>
 
-[![GitHub followers](https://img.shields.io/github/followers/AmiryasinYousefi369?style=for-the-badge&logo=github&color=39FF14&labelColor=161b22&label=FOLLOWERS)](https://github.com/AmiryasinYousefi369)
+[![GitHub followers](https://img.shields.io/github/followers/AmiryasinYousefi369?style=for-the-badge&logo=github&color=39FF14&labelColor=161b22&label=FOLLOWERS)](https://github.com/AmiryasinYousefi369?tab=followers)
 [![Profile views](https://komarev.com/ghpvc/?username=AmiryasinYousefi369&style=for-the-badge&color=39FF14&labelColor=161b22&label=PROFILE+VIEWS)](https://github.com/AmiryasinYousefi369)
 
 </div>
