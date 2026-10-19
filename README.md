@@ -1,9 +1,5 @@
 <div align="center">
 
-
-
-<br>
-
 <h2>
   <code style="color: #39FF14; font-family: 'Courier New', monospace;">amiryasin@github ~ $ whoami --ascii</code>
 </h2>
